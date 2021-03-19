@@ -15,6 +15,10 @@ Hi, I'm Jeannuel! I'm a junior (or semi-junior?) developer from Colombia who lov
 - React
 - MongoDB
 
+### ✍ What I'm playing:
+- Genshin Impact
+
 ### ❓ You can find me here:
 - You can find me on [Twitter](https://twitter.com/jeannsensei)
-- - You can find me on [Linkedin](https://linkedin.com/in/jeannuel/)
+- You can find me on [LinkedIn](https://linkedin.com/in/jeannuel/)
+- You can find me on [Steam](https://steamcommunity.com/id/jeannuel)
