@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, I'm Jeannuel! I'm a software developer from Colombia who loves Javascript and Angular.
 
-<!--
-**jeannsensei/jeannsensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤘 What do I know:
+- HTML
+- CSS
+- Javascript
+- SASS
+- Angular
+- Angular Universal
+- Git
+- Github
 
-Here are some ideas to get you started:
+### ✍ What I'm learning:
+- Node.js
+- React
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❓ You can find me here:
+- You can find me on [Twitter](https://twitter.com/jeannsensei)
+- - You can find me on [Linkedin](https://linkedin.com/in/jeannuel/)
