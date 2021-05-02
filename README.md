@@ -1,4 +1,4 @@
-Hi, I'm Jeannuel! I'm developer from Colombia who loves Javascript and Angular.
+Hi, I'm Jeannuel! I'm a developer from Colombia who loves Javascript and Angular.
 
 ### 🤘 What do I know:
 - HTML
