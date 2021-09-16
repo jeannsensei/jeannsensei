@@ -7,6 +7,7 @@ Hi, I'm Jeannuel! I'm a developer from Colombia who loves Javascript and Angular
 - SASS
 - Angular
 - Angular Universal
+- Stencil.js
 - Git
 - Github
 
