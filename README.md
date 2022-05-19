@@ -7,13 +7,15 @@ Hi, I'm Jeannuel! I'm a developer from Colombia who loves Javascript and Angular
 - SASS
 - Angular
 - Angular Universal
+- React
+- Next.js
+- Redux
 - Stencil.js
 - Git
 - Github
 
 ### ✍ What I'm learning:
 - Node.js
-- React
 - MongoDB
 
 ### ✍ What I'm playing:
