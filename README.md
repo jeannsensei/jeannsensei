@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Node.js and more**
 
-- 💬 Ask me about **Angular, React.js, Stencil.js**
+- 💬 Ask me about **Angular, React.js, Stencil.js or anything related to web development**
 
 - 📫 How to reach me **jjeanlink@gmail.com**
 
