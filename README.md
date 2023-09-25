@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeannuel García</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Campify](https://campify.io/)
+- 🔭 I’m currently working at [Campify](https://campify.io/)
 
 - 🌱 I’m currently learning **Next.js, Node.js and more**
 
