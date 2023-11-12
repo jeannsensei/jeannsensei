@@ -16,7 +16,9 @@
 - Colombia Holidays (next.js) -> [festivosencolombia.com](https://festivosencolombia.com)
 - Poke Api Challenge (Angular, rxjs, ngrx) -> [poke api challenge](https://ontop-pokeapi-challenge.netlify.app/)
 - Mi Tareita (Angular, ngzorro) -> [mi tareita](https://mitareita.netlify.app/home) (only frontend working, backend made with node.js but shut down)
-- Hotel Gairaka (FE: Angular, BE: Node.js) -> [Hotel Gairaka](https://www.hotelgairaka.com/) 
+- Hotel Gairaka (FE: Angular, BE: Node.js) -> [Hotel Gairaka](https://www.hotelgairaka.com/)
+
+...and a lot more but they're private (dashboard, utilities, etc.) made with Angular, React.js, Next.js, Node.js, Stencil.js, etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
