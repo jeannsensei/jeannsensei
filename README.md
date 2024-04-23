@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Angular, React.js, Stencil.js or anything related to web development**
 
-- 📫 How to reach me **jjeanlink@gmail.com**
+- 📫 How to reach me [jjeanlink@gmail.com](mailto:jjeanlink@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jeannuel/](https://www.linkedin.com/in/jeannuel/)
+- 📄 Know about my experiences [/in/jeannuel/](https://www.linkedin.com/in/jeannuel/)
 
 <h3 align="left">Some little projects and challenges:</h3>
 
