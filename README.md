@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeannuel García</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate software developer from Colombia</h3>
 
 - 🔭 I’m currently working at [Campify](https://campify.io/) & [Timbergrove](https://timbergrove.com/)
 
